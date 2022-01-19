@@ -3,9 +3,9 @@
 
 # Objectif
 ------------
-Produire une analyse à partir de données individuelles de type “trace numérique”
-Connaître les fondamentaux de l’analyse de données spatiales
-Réfléchir concrètement sur les possibilités techniques et les enjeux sociaux liés à de telles analyses
+* Produire une analyse à partir de données individuelles de type “trace numérique”
+* Connaître les fondamentaux de l’analyse de données spatiales
+* Réfléchir concrètement sur les possibilités techniques et les enjeux sociaux liés à de telles analyses
 
 
 # Description
