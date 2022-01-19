@@ -24,5 +24,5 @@ Des données supplémentaires sont ajoutées pour l’analyse : extraction de do
 ![image](https://user-images.githubusercontent.com/52492864/150120868-dbaa7fb0-96cc-4449-8dfc-85b3632bc025.png)
 
 * Fonction pour detecter si le driver a visité un endroit précis
-* ![image](https://user-images.githubusercontent.com/52492864/150124209-4c7ecbaf-08ca-46fc-9362-28c789a7eea8.png)
 
+![image](https://user-images.githubusercontent.com/52492864/150124209-4c7ecbaf-08ca-46fc-9362-28c789a7eea8.png)
