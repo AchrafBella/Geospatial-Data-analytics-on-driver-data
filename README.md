@@ -30,3 +30,9 @@ Des données supplémentaires sont ajoutées pour l’analyse : extraction de do
 * Fonction pour visuliser le temps de travail du driver.
 
 ![image](https://user-images.githubusercontent.com/52492864/150337681-0826f2c5-90f0-4807-ae23-a0c7748e3962.png)
+
+
+* Fonction pour visuliser la vitesse du driver.
+
+![image](https://user-images.githubusercontent.com/52492864/150343123-feeaabfa-0b6e-4e65-aa35-e89607fbdfaa.png)
+
