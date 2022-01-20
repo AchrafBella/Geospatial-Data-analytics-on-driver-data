@@ -14,15 +14,19 @@ Heetch est une start-up française qui organise des services de VTC dans plusieu
 Des données supplémentaires sont ajoutées pour l’analyse : extraction de données OpenStreetMap directement depuis R et découpage administratif du Maroc téléchargé sur le site GADM.
 
 
-* Fonction pour detecter si le deriver travaille la nuit ou le soir 
+* Fonction pour detecter si le deriver travaille la nuit ou le soir. 
 
 ![image](https://user-images.githubusercontent.com/52492864/150120334-976c4577-3d3b-48a3-8556-02902067f793.png)
 
 
-* Fonction pour afficher les facilities de la ville de Casablanca   
+* Fonction pour afficher les facilities de la ville de Casablanca.   
 
 ![image](https://user-images.githubusercontent.com/52492864/150120868-dbaa7fb0-96cc-4449-8dfc-85b3632bc025.png)
 
-* Fonction pour detecter si le driver a visité un endroit précis
+* Fonction pour detecter si le driver a visité un endroit précis.
 
 ![image](https://user-images.githubusercontent.com/52492864/150124209-4c7ecbaf-08ca-46fc-9362-28c789a7eea8.png)
+
+* Fonction pour visuliser le temps de travail du driver.
+
+![image](https://user-images.githubusercontent.com/52492864/150337681-0826f2c5-90f0-4807-ae23-a0c7748e3962.png)
