@@ -45,8 +45,8 @@ Des données supplémentaires sont ajoutées pour l’analyse : extraction de do
 Exemple pour lancer l'application :
 -----------
 ```R
- run data_acquisition.R et analysis.R 
+run data_acquisition.R et analysis.R 
 run data_visualization.R pour Rstudio
-run shiny_application.R pour lancer l'application
+run shiny_application.R pour lancer l application
  
 ```
