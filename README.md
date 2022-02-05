@@ -35,4 +35,18 @@ Des données supplémentaires sont ajoutées pour l’analyse : extraction de do
 * Fonction pour visuliser la vitesse du driver.
 
 ![image](https://user-images.githubusercontent.com/52492864/150343123-feeaabfa-0b6e-4e65-aa35-e89607fbdfaa.png)
+ 
+* Fonction pour detecter la zone où le cheffeur habite
 
+ 
+![image](https://user-images.githubusercontent.com/52492864/152639123-b7b74c6b-789d-486e-b01b-c0ff114860f7.png)
+
+ 
+Exemple pour lancer l'application :
+-----------
+```R
+ run data_acquisition.R et analysis.R 
+run data_visualization.R pour Rstudio
+run shiny_application.R pour lancer l'application
+ 
+```
