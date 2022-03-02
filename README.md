@@ -7,6 +7,9 @@
 * Connaître les fondamentaux de l’analyse de données spatiales
 * Réfléchir concrètement sur les possibilités techniques et les enjeux sociaux liés à de telles analyses
 
+# Données
+---------
+Vous pouvez télécharger les données à partir du lien suivant : https://acloud.zaclys.com/index.php/s/sgfzDeKQw5zeZGj
 
 # Description
 Heetch est une start-up française qui organise des services de VTC dans plusieurs villes du monde dont Casablanca. Les données sont fournies pour Casablanca pour le mois de mars 2019 avec un point GPS par minute et par véhicule. Ces données comportent un identifiant chauffeur (driver_id), une variable temporelle (location_at_local_time) et des coordonnées géographiques (longitude et latitude).
